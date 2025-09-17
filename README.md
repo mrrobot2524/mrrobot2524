@@ -5,8 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%D1%85%D0%B0%D0%B1%D0%B8%D0%B1-%D0%B8%D0%B1%D1%80%D0%B0%D0%B3%D0%B8%D0%BC%D0%BE%D0%B2-83014b1b5/) 
 
-![LeetCode Stats](https://leetcode.com/u/mrrobot2524/?theme=dark&font=Roboto&ext=contest)
-
+![Leetcode Stats](https://leetcode.com/u/mrrobot2524/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrrobot2524&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
