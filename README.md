@@ -2,10 +2,13 @@
 👋 Hi, I’m Khabib – a passionate Front-End Developer 🌐 who loves turning ideas into interactive, responsive, and user-friendly web experiences.<br><br>💡 My toolbox: HTML5 ⚡ CSS3 🎨 JavaScript ⚙️ React ⚛️<br>🎯 My focus: Clean code, smooth UI/UX, and modern design practices.<br>🚀 My mindset: Always learning, always improving, always building.<br><br>I enjoy crafting web apps that not only work flawlessly ⚡ but also delight users 😃. <br>Whether it’s coding pixel-perfect layouts, optimizing performance 🔧, <br>or experimenting with new frameworks 🧩 — I’m excited to bring designs to life and make the web a better place 🌍.
 
 
+## LeetCode:
+![Leetcode Stats](https://leetcode.com/u/mrrobot2524/)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%D1%85%D0%B0%D0%B1%D0%B8%D0%B1-%D0%B8%D0%B1%D1%80%D0%B0%D0%B3%D0%B8%D0%BC%D0%BE%D0%B2-83014b1b5/) 
 
-![Leetcode Stats](https://leetcode.com/u/mrrobot2524/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrrobot2524&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
