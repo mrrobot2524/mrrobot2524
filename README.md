@@ -17,19 +17,16 @@
 
 ## 👨‍💻 About Me
 
-class FullStackDeveloper:
-def init(self):
-self.name = "Khabib Ibragimov"
-self.role = "Full-Stack Developer"
-self.languages = ["Python", "JavaScript", "TypeScript", "Go"]
-self.currently_learning = ["Go", "Kubernetes", "Trading Algorithms"]
-self.interests = ["Web Development", "Cloud Infrastructure", "Trading Bots"]
+| 👤 Name | Khabib Ibragimov |
+|---------|------------------|
+| 💼 Role | Full-Stack Developer |
+| 📍 Location | Qarshi, Uzbekistan 🇺🇿 |
+| 💻 Languages | Python, JavaScript, TypeScript, Go |
+| 🌱 Learning | Go, Kubernetes, Trading Algorithms |
+| 🎯 Interests | Web Development, Cloud Infrastructure, Trading Bots |
 
-text
-def say_hi(self):
-    print("Thanks for visiting! Let's build something amazing together!")
-me = FullStackDeveloper()
-me.say_hi()
+> 💡 Thanks for visiting! Let's build something amazing together!
+
 
 
 ---
