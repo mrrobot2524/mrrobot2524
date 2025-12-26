@@ -167,25 +167,36 @@
 
 ## 💼 Work Experience Highlights
 
-const experience = {
-fullStack: {
-  frontend: ["React", "Next.js", "TypeScript", "Redux", "Tailwind CSS"],
-  backend: ["Python", "FastAPI", "Django", "Go", "PostgreSQL", "MongoDB"],
-  deployment: ["Docker", "AWS", "Oracle Cloud", "Nginx", "GitHub Actions"]
-},
-projects: [
-  "🍣 Sushi Delivery - Full-stack ordering system",
-  "✅ Advanced Todo App - Task management with reminders",
-  "🤖 Telegram Mini Apps - Interactive bot integrations",
-  "📊 Trading Bots - Algorithmic trading automation"
-],
-achievements: [
-  "✨ Deployed multiple production applications",
-  "🔧 Built RESTful APIs serving real users",
-  "🚀 Implemented CI/CD pipelines",
-  "📱 Created Telegram bot integrations"
-]
-};
+### 🛠️ Tech Stack Experience
+
+**Frontend:**
+- React, Next.js, TypeScript, Redux, Tailwind CSS
+
+**Backend:**
+- Python, FastAPI, Django, Go, PostgreSQL, MongoDB
+
+**DevOps & Deployment:**
+- Docker, AWS, Oracle Cloud, Nginx, GitHub Actions
+
+### 📋 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| 🍣 **Sushi Delivery** | Full-stack ordering system | React, FastAPI, PostgreSQL |
+| ✅ **Advanced Todo App** | Task management with reminders | Next.js, Django, MongoDB |
+| 🤖 **Telegram Mini Apps** | Interactive bot integrations | Python, WebSocket, Redis |
+| 📈 **Trading Bots** | Algorithmic trading automation | Go, Python, Real-time APIs |
+
+### 🎯 Key Achievements
+
+- ✨ Deployed multiple production applications to AWS and Oracle Cloud
+- 🔧 Built RESTful APIs serving real users
+- 🚀 Implemented CI/CD pipelines with GitHub Actions
+- 📱 Created Telegram bot integrations and mini-apps
+- 💾 Designed and optimized databases (PostgreSQL, MongoDB)
+- 🔄 Managed async tasks with Celery and Redis
+
+
 
 
 ---
