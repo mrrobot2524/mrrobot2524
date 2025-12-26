@@ -20,7 +20,6 @@
 | 👤 Name | Khabib Ibragimov |
 |---------|------------------|
 | 💼 Role | Full-Stack Developer |
-| 📍 Location | Qarshi, Uzbekistan 🇺🇿 |
 | 💻 Languages | Python, JavaScript, TypeScript, Go |
 | 🌱 Learning | Go, Kubernetes, Trading Algorithms |
 | 🎯 Interests | Web Development, Cloud Infrastructure, Trading Bots |
