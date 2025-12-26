@@ -169,21 +169,21 @@
 
 const experience = {
 fullStack: {
-frontend: ["React", "Next.js", "TypeScript", "Redux", "Tailwind CSS"],
-backend: ["Python", "FastAPI", "Django", "Go", "PostgreSQL", "MongoDB"],
-deployment: ["Docker", "AWS", "Oracle Cloud", "Nginx", "GitHub Actions"]
+  frontend: ["React", "Next.js", "TypeScript", "Redux", "Tailwind CSS"],
+  backend: ["Python", "FastAPI", "Django", "Go", "PostgreSQL", "MongoDB"],
+  deployment: ["Docker", "AWS", "Oracle Cloud", "Nginx", "GitHub Actions"]
 },
 projects: [
-"🍣 Sushi Delivery - Full-stack ordering system",
-"✅ Advanced Todo App - Task management with reminders",
-"🤖 Telegram Mini Apps - Interactive bot integrations",
-"📊 Trading Bots - Algorithmic trading automation"
+  "🍣 Sushi Delivery - Full-stack ordering system",
+  "✅ Advanced Todo App - Task management with reminders",
+  "🤖 Telegram Mini Apps - Interactive bot integrations",
+  "📊 Trading Bots - Algorithmic trading automation"
 ],
 achievements: [
-"✨ Deployed multiple production applications",
-"🔧 Built RESTful APIs serving real users",
-"🚀 Implemented CI/CD pipelines",
-"📱 Created Telegram bot integrations"
+  "✨ Deployed multiple production applications",
+  "🔧 Built RESTful APIs serving real users",
+  "🚀 Implemented CI/CD pipelines",
+  "📱 Created Telegram bot integrations"
 ]
 };
 
