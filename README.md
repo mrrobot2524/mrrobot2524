@@ -190,11 +190,19 @@ achievements: [
 
 ---
 
-## 📈 Coding Activity
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrrobot2524&theme=tokyonight&hide_border=true&layout=default&custom_title=Weekly%20Coding%20Stats" alt="Weekly Stats" width="60%"/>
+  <a href="https://github.com/mrrobot2524?tab=repositories">
+    <img src="https://img.shields.io/badge/View_My_Activity-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Activity"/>
+  </a>
 </div>
+
+---
+
 
 ---
 
